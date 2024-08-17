@@ -17,6 +17,7 @@ Edit the Apache configuration file for your domain:
 
 ```bash
 sudo nano /etc/apache2/sites-available/your_domain.conf
+
 ```
 
 Add or update the following lines:
